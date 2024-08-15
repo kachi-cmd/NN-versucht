@@ -7,9 +7,9 @@ The goal was to utilize the Fashion-MNIST dataset to train a neural network capa
 
 Additionally, I experimented with different neural networks (NN) to determine if the model achieved the highest accuracy percentage and lowest average loss within the same number of epochs. These models ranged from linear NN to one-dimensional convolutional NN and two-dimensional convolutional NN. 
 
-Links to the source dataset, my N.N training models, and results can be found here:
-<a href='https://github.com/zalandoresearch/fashion-mnist'> fashion-mnist source dataset </a> 
-<a href='https://colab.research.google.com/drive/1fCLzS1baUUAlzKdm_TyP9aa603Zzr1kn#scrollTo=Wjx_zrihmcgj'> 2Conv 1D and 3Linear N.N - Colab (google.com) </a> 
-<a href='https://colab.research.google.com/drive/1NYShT19enpseL8qQQaSETyJvxi6JJF6T#scrollTo=I17r98fdmcgj'> 2Conv 2D and 3Linear N.N - Colab (google.com) </a> 
+Links to the source dataset, my N.N training models, and results can be found here: <br/>
+<a href='https://github.com/zalandoresearch/fashion-mnist'> fashion-mnist source dataset </a> <br/>
+<a href='https://colab.research.google.com/drive/1fCLzS1baUUAlzKdm_TyP9aa603Zzr1kn#scrollTo=Wjx_zrihmcgj'> 2Conv 1D and 3Linear N.N - Colab (google.com) </a> <br/>
+<a href='https://colab.research.google.com/drive/1NYShT19enpseL8qQQaSETyJvxi6JJF6T#scrollTo=I17r98fdmcgj'> 2Conv 2D and 3Linear N.N - Colab (google.com) </a> <br/>
 <a href='https://colab.research.google.com/drive/1BR9eFdwwawWz0uDjEvdBQppRWarJoEvS#scrollTo=YsUjA2qvmcgh'> Conv 2D and 3Linear N.N - Colab (google.com) </a> 
 
